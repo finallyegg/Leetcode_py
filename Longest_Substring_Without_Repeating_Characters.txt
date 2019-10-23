@@ -1,0 +1,9 @@
+suppose we have an array of number
+
+two pointer i and j
+
+i = j =0;
+
+if next character does not conflict with CURRENT SUBSTRING, j to that character,
+
+else i and j both jump to that character
